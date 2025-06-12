@@ -40,8 +40,7 @@ The web application should meet the following non-functional requirements:
 
 ### 4.3 Constraints
 
-- The application should be built using FastAPI and Streamlit and deployed using Docker and Digital Ocean droplets.
-- The cost of deployment should be minimal.
+- The application should be built using FastAPI and Streamlit and deployed using Docker 
 
 ### 4.4 Out-of-scope
 
