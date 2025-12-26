@@ -40,7 +40,7 @@ The web application should meet the following non-functional requirements:
 
 ### 4.3 Constraints
 
-- The application should be built using FastAPI and Streamlit and deployed using Docker 
+- The application should be built using FastAPI and Streamlit
 
 ### 4.4 Out-of-scope
 
